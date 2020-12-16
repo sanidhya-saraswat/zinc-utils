@@ -1,0 +1,21 @@
+{
+  "name": "sb-utils",
+  "version": "1.0.0",
+  "description": "Multiple utilites in one single package",
+  "keywords": [
+    "utils",
+  ],
+  "homepage": "https://github.com/sanidhya-saraswat/sb-utils",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanidhya-saraswat/sb-utils.git"
+  },
+  "author": "Sanidhya Saraswat <sanidhya.saraswat@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "engineStrict": true
+}
