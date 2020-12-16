@@ -1,15 +1,15 @@
 {
   "name": "zinc-utils",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "Multiple utilites in one single package",
   "keywords": [
     "utils"
   ],
-  "homepage": "https://github.com/sanidhya-saraswat/sb-utils",
+  "homepage": "https://github.com/sanidhya-saraswat/zinc-utils",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhya-saraswat/sb-utils.git"
+    "url": "https://github.com/sanidhya-saraswat/zinc-utils.git"
   },
   "author": "Sanidhya Saraswat <sanidhya.saraswat@gmail.com>",
   "license": "MIT",
